@@ -18,7 +18,7 @@ total = consumption * rate
 if is_senior == "yes":
     discount = total * 0.05
     total = total - discount
-    print(f"Senior discount applied: ₱{discount}")
+    print(f"Senior discount applied: ₱{discount:.2f}")
 
 print("----- ELECTRIC BILL -----")
 print(f"Name: {name}")
