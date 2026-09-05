@@ -1,3 +1,7 @@
+# Group 7
+# Amoguis, Ariel R.
+# Diomes, Danny D.
+# Cruz, Jan Andrei O.
 # Barangay Electric Bill Calculator — REPORTED BROKEN, PLEASE FIX
 
 name = input("Enter resident name: ")
