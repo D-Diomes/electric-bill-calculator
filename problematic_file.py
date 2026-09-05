@@ -22,6 +22,6 @@ if is_senior == "yes":
 
 print("----- ELECTRIC BILL -----")
 print(f"Name: {name}")
-print(f"Consumption: {consumption}kWh")
-print(f"Rate applied: ₱{rate} /kWh")
+print(f"Consumption: {consumption} kWh")
+print(f"Rate applied: ₱{rate}/kWh")
 print(f"Total Due: ₱{total}")
